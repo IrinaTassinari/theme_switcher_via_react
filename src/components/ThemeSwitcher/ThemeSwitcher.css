@@ -1,0 +1,12 @@
+.theme-switcher{
+    border-radius: 8px;
+    padding: 5px 8px;
+    border: none;
+    margin: 20px 0 20px 0;
+}
+.theme-switcher.light{
+    border: 1px solid black;
+}
+.theme-switcher.dark{
+    background-color: grey;
+}
